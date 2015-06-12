@@ -7,32 +7,32 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>B0224A06-17C5-466F-A280-41811C59BD55</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>GrandMaAtTheCLub</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>F61AE023DEB9A5845061305E22BAD6E1C4C3E1AE</key>
-		<string>https://github.com/krishnapicart/06-04a.git</string>
+		<key>A77487F811D212B548A444E693A191544632F9D2</key>
+		<string>https://github.com/krishnapicart/c4q.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>06-07/GrandMaAtTheCLub/GrandMaAtTheCLub.xcodeproj/project.xcworkspace</string>
+	<string>06-07/GrandMaAtTheCLub/GrandMaAtTheCLub.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F61AE023DEB9A5845061305E22BAD6E1C4C3E1AE</key>
+		<key>A77487F811D212B548A444E693A191544632F9D2</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/krishnapicart/06-04a.git</string>
+	<string>https://github.com/krishnapicart/c4q.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F61AE023DEB9A5845061305E22BAD6E1C4C3E1AE</string>
+	<string>A77487F811D212B548A444E693A191544632F9D2</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F61AE023DEB9A5845061305E22BAD6E1C4C3E1AE</string>
+			<string>A77487F811D212B548A444E693A191544632F9D2</string>
 			<key>IDESourceControlWCCName</key>
 			<string>unit-0</string>
 		</dict>

@@ -5,23 +5,23 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>7A716C0F-BE6C-4C3E-90BA-00049E88C389</string>
+	<string>4E22051D-6BE4-40FE-8AC7-8007F9E2E974</string>
 	<key>IDESourceControlProjectName</key>
-	<string>GrandmasHands</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>A77487F811D212B548A444E693A191544632F9D2</key>
-		<string>https://github.com/krishnapicart/06-04a.git</string>
+		<string>https://github.com/krishnapicart/c4q.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>06-07/GrandmasHands/GrandmasHands.xcodeproj</string>
+	<string>06-12/conditionals/conditionals.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>A77487F811D212B548A444E693A191544632F9D2</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/krishnapicart/06-04a.git</string>
+	<string>https://github.com/krishnapicart/c4q.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
