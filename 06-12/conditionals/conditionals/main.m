@@ -23,35 +23,46 @@ int main(int argc, const char * argv[]) {
         int sumPoints;
         sumPoints = goalPoints + whatYouWantPoints;
         
+        //first condition
         NSLog(@"Do you know what you want in Life?");
         scanf("%d", &isAns1);
+        if(isAns1 != 1){
+            while(isAns1 != 1){
+                NSLog(@"Think about it a little bit, can you think of something you want more than anything else it life?");
+                scanf("%d", &isAns1);}
+        } else if(isAns1 == 1) {
+            NSLog(@"Good start!");
+        }
         
-        if(isAns1 == 1){
-            NSLog(@"Good for YOU!, are you also working towards your goals?");
-            scanf("%d", &isAns2);
-                if (isAns2 == 1){
-                    NSLog(@"Do people around you support your goals?");
-                    scanf("%d", &isAns3);
-                    if(isAns3 ==1 ){
-                        NSLog(@"You are the bestest");
-                        
-                        NSLog(@"Do people around you support your dreams/goals");
-                        scanf("%d",&isAns4);
-                        if(isAns4 == 1){
-                            NSLog(@"You have a good chance to succeed!");
+        //second condition
+        NSLog(@"Are you working towards your goals?");
+        scanf("%d", &isAns2);
+        if(isAns2 != 1){
+            while(isAns2 != 1){
+                NSLog(@"are you willing to work towards your goals?");
+                scanf("%d", &isAns2);
+                }
+        } else if(isAns2 == 1) {
+            NSLog(@"Thats great, cause no one is going to do the work for you");
+            }
+        
+        //third option
+        NSLog(@"do you have people around who are supportive of your efforts?");
+        scanf("%d", &isAns3);
+        if(isAns3 != 1){
+            while(isAns3 != 1){
+                NSLog(@"not a good thing, you need supportive people to keep you going, can you find some?");
+                scanf("%d", &isAns3);
+                NSLog(@"its always better to play with others than with yourself");
+            }
+        } else if(isAns3 == 1) {
+            NSLog(@"gald that worked out for you, because success cannot be acheived in a vaccume");
+        }
 
-                    }else if(isAns3 != 1){
-                            while (isAns3 !=1){
-                                NSLog(@"are you willing to work towards your goasl?");
-                                scanf("%d", &isAns3);
-                            }
+
         
-                                                            }         }
-                        
-                    }
-              }
-                          
-                          
+        
+        
    }
 return 0;
 }
