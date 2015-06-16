@@ -79,7 +79,7 @@ int main(int argc, const char * argv[]) {
             if (countx == 0) {
                 break;
             }
-            NSLog(@"printing1 to the console...");
+            NSLog(@"printing to the console...");
         }
         
  

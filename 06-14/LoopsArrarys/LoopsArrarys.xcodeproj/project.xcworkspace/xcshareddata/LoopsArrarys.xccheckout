@@ -5,20 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>8FAAFCB6-B8DF-467E-97F9-78D0D312B7C9</string>
+	<string>DA5617A2-028E-45F0-9149-FD4B37DD4539</string>
 	<key>IDESourceControlProjectName</key>
-	<string>12 days of Christmas</string>
+	<string>LoopsArrarys</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>A77487F811D212B548A444E693A191544632F9D2</key>
 		<string>https://github.com/krishnapicart/c4q.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>06-06/FirstRepo/12 days of Christmas/12 days of Christmas.xcodeproj</string>
+	<string>06-14/LoopsArrarys/LoopsArrarys.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>A77487F811D212B548A444E693A191544632F9D2</key>
-		<string>../../../../..</string>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/krishnapicart/c4q.git</string>
