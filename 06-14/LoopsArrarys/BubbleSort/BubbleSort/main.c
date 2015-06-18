@@ -10,6 +10,17 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, World!\n");
+    int i;
+    int userNumbers[10];
+    int count;
+    
+    count = sizeof(userNumbers)/userNumbers;
+    printf("value of count = %d ", count);
+    for(i = 0; i < 10; i++) {
+        printf("\n enter in value number: %d>>", i);
+        scanf("%d",&userNumbers);
+    
+    }
+    
     return 0;
 }
