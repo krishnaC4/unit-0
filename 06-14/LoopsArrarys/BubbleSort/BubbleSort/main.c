@@ -11,6 +11,7 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
 
+
     int userNumbers[10];
     int i;
     int count;
@@ -82,7 +83,6 @@ int main(int argc, const char * argv[]) {
 //        };
 
    // }
-    
     
     
     return 0;
