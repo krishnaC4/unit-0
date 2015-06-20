@@ -14,7 +14,7 @@ void printNewLine() {
 
 int addSum(int a, int b, int c){
     return a + b + c;
-}
+}å
 
 
 int subtractSum(int a, int b, int c){
